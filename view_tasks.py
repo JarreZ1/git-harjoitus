@@ -1,9 +1,4 @@
-# git ryhmä harjoitus Jani (lead), b Jarmo, Jussi, Maiju
-# f = open("todo.py", "r")
-# f.write("testing part add")
-# f.close()
-# tasks = open("todo.py", "r") # reading string list
- 
+# git ryhmä harjoitus Jani (lead), b Jarmo, c Jussi, d Maiju 
 
 def view_tasks(tasks):
 	print("This is the list of existing tasks")
