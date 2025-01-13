@@ -1,0 +1,2 @@
+# git harjoituksia
+# Mongo ignore file
